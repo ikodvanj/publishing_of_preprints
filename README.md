@@ -1,1 +1,1 @@
-# publishing_of_preprints
+Accompanying git repository with code and data used in the article "Publishing of COVID-19 Preprints in Peer-reviewed Journals, Preprinting Trends, Public Discussion and Quality Issues" by Kodvanj I, Homolak J, Virag D, Trkulja V (2020 bioRxiv, https://doi.org/10.1101/2020.11.23.394577v3)
